@@ -20,3 +20,7 @@
 2025-06-03 14:04:19.775 [main] INFO  com.biblioteca.Main - Iniciando aplicación de gestión de biblioteca
 2025-06-03 14:20:51.896 [main] INFO  com.biblioteca.Main - Iniciando aplicación de gestión de biblioteca
 2025-06-03 14:21:39.441 [main] INFO  com.biblioteca.Main - Aplicación finalizada
+2025-06-03 18:01:57.912 [main] INFO  com.biblioteca.Main - Iniciando aplicación de gestión de biblioteca
+2025-06-03 18:02:41.771 [main] INFO  com.biblioteca.dao.LibroDAOImpl - Libro eliminado con ID: 1
+2025-06-03 18:03:00.160 [main] INFO  com.biblioteca.dao.AutorDAOImpl - Autor eliminado con ID: 1
+2025-06-03 18:03:31.077 [main] INFO  com.biblioteca.Main - Aplicación finalizada
